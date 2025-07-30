@@ -14,6 +14,11 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eb86c04-3ffc-44ad-9e46-56fe5b34b57e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88d726de-9087-49be-a6ec-c5a6933bc56a" />
 
+# Mode Icon:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71e70599-83a8-433a-b0c9-d6db47e7c22b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b95899f-9067-4a70-86f7-ab83772f8312" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fdb050fd-c332-488a-8a09-a0274acd3551" />
 
 
 
