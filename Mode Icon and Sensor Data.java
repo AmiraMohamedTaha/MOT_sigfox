@@ -17,9 +17,9 @@ function FinalOutput(modeDecimal, temp, hum, lux, vibration, magnet) {
   if (modeDecimal == 0) {
     return "Stand By Mode";
   } else if (modeDecimal == 1) {
-    return temp + "C" + hum + "%";
+    return temp + " °C " + hum + " %";
   } else if (modeDecimal == 2) {
-    return Number(lux).toFixed(2) + "Lux";
+    return Number(lux).toFixed(2) + " Lux";
   } else if (modeDecimal == 3) {
     return "Door Mode";
   } else if (modeDecimal == 4) {
