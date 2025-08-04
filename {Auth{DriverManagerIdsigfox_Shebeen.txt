@@ -1,0 +1,1 @@
+{"Auth":{"DriverManagerId":"sigfox_Shebeen","DriverManagerPassword":"sigfox_Shebeen_pass"},"Package":{"SensorInfo":{"SensorId":"67743"},"SensorData":{"data":"{data}","sfid":"{device}","rssi":"{rssi}"}}}
