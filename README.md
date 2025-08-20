@@ -1,3 +1,5 @@
+# Sigfox:
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bc0878b-0b6f-4e14-8fdb-73e9ad51a87d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7248db3-ba20-4539-be79-549f52eebf14" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/115d3a7f-7f83-42ea-8949-1f717eb504ce" />
@@ -21,7 +23,10 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fdb050fd-c332-488a-8a09-a0274acd3551" />
 
 
-
+## Tools:
+<img width="795" height="1076" alt="image" src="https://github.com/user-attachments/assets/33b4741e-c244-468e-8d11-e76ce512f840" />
+<img width="795" height="1079" alt="image" src="https://github.com/user-attachments/assets/fbc5dc6b-a51b-411d-be25-2ba11476d265" />
+https://drive.google.com/file/d/1IRR_ZkemOqhocXxweocnVyLxcatl9hE5/view?usp=sharing
 
 
 
